@@ -1,0 +1,16 @@
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\CsAlgorithm.exe
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\CsAlgorithm.deps.json
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\CsAlgorithm.runtimeconfig.json
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\CsAlgorithm.runtimeconfig.dev.json
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\CsAlgorithm.dll
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\ref\CsAlgorithm.dll
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\bin\Debug\net5.0\CsAlgorithm.pdb
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.csproj.AssemblyReference.cache
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.AssemblyInfoInputs.cache
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.AssemblyInfo.cs
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.dll
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\ref\CsAlgorithm.dll
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.pdb
+C:\Users\rhian\OneDrive\Github Unity\Algorithm\CsAlgorithm\CsAlgorithm\obj\Debug\net5.0\CsAlgorithm.genruntimeconfig.cache
