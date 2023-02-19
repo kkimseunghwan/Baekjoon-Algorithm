@@ -1,3 +1,5 @@
+# X 더 강해져서 돌아와라
+
 def count_crosses(n, m, blue_peasants, red_peasants):
     crosses = 0
     blue_peasants = sorted(blue_peasants, key=lambda x: x[1])
