@@ -1,0 +1,21 @@
+
+chess = [input() for _ in range(8)]
+
+line = 0
+ans = 0
+for i in chess:
+  for j in range(len(i)):
+    if line%2==0 and j%2==0:
+      if i[j] == "F": 
+        ans += 1
+        print(line, j)
+    elif line%2==1 and j%2==1:
+      if i[j] == "F": 
+        ans += 1
+        print(line, j)
+  line += 1
+
+
+print(ans)
+
+
