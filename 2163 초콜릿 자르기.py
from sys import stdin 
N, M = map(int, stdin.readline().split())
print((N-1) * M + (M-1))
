@@ -1,0 +1,4 @@
+#2163 초콜릿 자르기
+from sys import stdin 
+N, M = map(int, stdin.readline().split())
+print((N-1) * M + (M-1))
